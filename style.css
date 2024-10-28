@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Quicksand:wght@300..700&display=swap');
+
+
+body{
+  font-family: "Plus Jakarta Sans", sans-serif;
+  background-color: #FAFAFA;
+  ;
+}
+
+
+.large-text{
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 70px;
+}
